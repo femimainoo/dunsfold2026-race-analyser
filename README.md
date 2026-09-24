@@ -1,7 +1,9 @@
 # dunsfold2026-race-analyser
 
 Analysis of graphs:
+
 Race 1:
+
 Conclusions from Graph titled "Race 1: Time Taken for Empress to Complete Each Lap":
 The time taken for the car to complete each lap is quite steady around 110seconds (despite some anomalies
 which are from pit changes) until lap 19 out of 34 where it starts increases at an increasing rate, until it reaches
