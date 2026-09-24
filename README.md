@@ -1,6 +1,6 @@
 # dunsfold2026-race-analyser
 
-Analysis of graphs:
+**Graphs:**
 
 <img width="962" height="772" alt="Graph - Race 1 Time Taken for Empress to Complete Each Lap" src="https://github.com/user-attachments/assets/f9bc3f8f-0e77-40a6-a1a1-d59bde6d4ab8" />
 
@@ -10,6 +10,8 @@ Analysis of graphs:
 <img width="990" height="780" alt="Graph - Race 2 Time Taken for Empress to Complete Each Lap" src="https://github.com/user-attachments/assets/f2d79e80-af24-45a1-97cf-06ae603c8df3" />
 
 <img width="972" height="800" alt="Graph - Race 2 Speed of Empress each Lap" src="https://github.com/user-attachments/assets/060a1bc1-a5c2-4db3-8bbd-1ad08b7ce664" />
+
+**Analysis of graphs:**
 
 Race 1:
 
