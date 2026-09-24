@@ -13,9 +13,9 @@
 
 **Analysis of graphs:**
 
-Race 1:
+**Race 1:**
 
-Conclusions from Graph titled "Race 1: Time Taken for Empress to Complete Each Lap":
+**Conclusions from Graph titled "Race 1: Time Taken for Empress to Complete Each Lap":**
 
 The time taken for the car to complete each lap is quite steady around 110seconds (despite some anomalies
 which are from pit changes) until lap 19 out of 34 where it starts increases at an increasing rate, until it reaches
@@ -24,7 +24,7 @@ around 250seconds in lap 34. This is more double the initial time taken.
 Therefore, Empress' performance declined. The time taken was quite consistent in one section, but in the
 second section it increased steadily.
 
-Conclusions from Graph titled "Race 1: Speed of Empress each Lap":
+**Conclusions from Graph titled "Race 1: Speed of Empress each Lap":**
 
 The speed of the car is quite constant between 10m/s and 11m/s (despite some anomalies which are from pit
 changes) until lap 19 out of 34 where it starts to decrease at an increasing rate until it's speed is about 5m/s.
@@ -39,9 +39,9 @@ log current, voltage etc.) during races could help determine this time.
 Empress' performance declined. The speed was quite consistent in one section, but in the second section it
 decreased steadily.
 
-Race 2:
+**Race 2:**
 
-Conclusions from Graph titled "Race 2: Time Taken for Empress to Complete Each Lap":
+**Conclusions from Graph titled "Race 2: Time Taken for Empress to Complete Each Lap":**
 
 The time taken for the car to complete each lap is quite steady around 110 seconds (despite some anomalies
 from pit changes and one from a red flag, which stopped the race for a period of time) until lap 22 out of 38,
@@ -50,7 +50,7 @@ the initial time taken.
 
 Therefore, Empress' performance declined but had consistent time taken split into two different sections.
 
-Conclusions from Graph titled "Race 2: Speed of Empress each Lap":
+**Conclusions from Graph titled "Race 2: Speed of Empress each Lap":**
 
 The speed of the car is quite constant between 9.5m/s and 11m/s until lap (despite some anomalies) until lap
 22 out of 38 where it jumps up to around 7m/s to 8.5m/s and remains here until lap 38. This speed is lower
@@ -59,7 +59,7 @@ compared to the initial speed.
 Therefore, Empress' performance declined but had consistent speed split into two different sections.
 Overall analysis:
 
-Which race did Empress have a better performance in and why?:
+**Which race did Empress have a better performance in and why?:**
 
 Empress performed better in Race 2.
 
@@ -82,7 +82,7 @@ it rained in the second race which presumable would cause Empress to move slower
 resistance. The drivers' apprehension on holding down the power button in fear of crashing the car could also
 be a factor, which slowed down the car. However, Empress is faster in race 2.
 
-What was the cause of reduction of speed in both races?:
+**What was the cause of reduction of speed in both races?:**
 
 Saffy, car lead of KM1 (the fastest car our school has), suggested that the decrease in speed in both races is
 due to the aerodynamics and weight of our car. Our car is not completely streamlined and bullet shaped, which
@@ -97,7 +97,7 @@ We can streamline the vehicle's silhouette by tucking the protruding wheels into
 
 In regards to the weight of the car we cant change the chassis but we can try and identify and remove unnecessary mass from the car.
 
-Extra tasks to look into:
+**Extra tasks to look into:**
 
 Mr Bamford spoke about how the fastest teams' cars are able alter their motor to their benefit.
 
