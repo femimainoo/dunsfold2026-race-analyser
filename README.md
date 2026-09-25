@@ -1,4 +1,14 @@
-# dunsfold2026-race-analyser
+# Project: How does the performance of a Greenpower car change during a race?
+
+My team and I are going to use data from our performance at Dunsfold race on 13/09/2026 to analyse how the
+performance of Empress (our car) changes during a race.
+
+Main objectives:
+▪ See what conclusions can be made about the performance of empress.
+▪ Identify the source of what causes empress to slow down during race.
+▪ Use the data to make the process of looking for solutions that allow empress to maintain speed for as long
+as possible during races easier.
+
 
 **Graphs:**
 
