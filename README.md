@@ -4,6 +4,7 @@ My team and I are going to use data from our performance at Dunsfold race on 13/
 performance of Empress (our car) changes during a race.
 
 Main objectives:
+
 ▪ See what conclusions can be made about the performance of empress.
 
 ▪ Identify the source of what causes empress to slow down during race.
