@@ -56,55 +56,37 @@ decreased steadily.
 
 **Conclusions from Graph titled "Race 2: Time Taken for Empress to Complete Each Lap":**
 
-The time taken for the car to complete each lap is quite steady around 110 seconds (despite some anomalies
-from pit changes and one from a red flag, which stopped the race for a period of time) until lap 22 out of 38,
-where it jumps up to around 180 seconds and remains here until lap 38. This time taken is higher compared to
-the initial time taken.
+The time taken for the car to complete each lap is quite steady around 110 seconds (despite some anomalies from pit changes and one from a red flag, which stopped the race for a period of time) until lap 24 out of 38, where it jumps up to around 160 seconds and remains here until lap 38. This time taken is higher compared to the initial time taken.
 
 Therefore, Empress' performance declined but had consistent time taken split into two different sections.
 
 **Conclusions from Graph titled "Race 2: Speed of Empress each Lap":**
 
-The speed of the car is quite constant between 9.5m/s and 11m/s until lap (despite some anomalies) until lap
-22 out of 38 where it jumps up to around 7m/s to 8.5m/s and remains here until lap 38. This speed is lower
-compared to the initial speed.
+The speed of the car is quite constant between 9.5m/s and 11m/s until lap (despite some anomalies) until lap 24 out of 38 where it jumps up to around 7m/s to 8.5m/s and remains here until lap 38. This speed is lower compared to the initial speed.
 
 Therefore, Empress' performance declined but had consistent speed split into two different sections.
-Overall analysis:
 
-**Which race did Empress have a better performance in and why?:**
+**Overall analysis:**
+
+Which race did Empress have a better performance in and why?
 
 Empress performed better in Race 2.
 
-In race 1, the speed was quite consistent in one section, but in the second section it decreased steadily. In race
-2, had consistent speed split into two different sections, where the second section was around a lower speed
-than the first.
+In race 1, the speed was quite consistent in one section, but in the second section it decreased steadily. In race 2, had consistent speed split into two different sections, where the second section was around a lower speed than the first. Since Empress was able to maintain more consistency in Race 2, it performed better in race 2. 
 
-Since Empress was able to maintain more consistency in Race 2, it performed better in race 2.
-Furthermore, in race 1 empress started at 10m/s and finished at 5m/s, but in race 2 empress started at around
-10m/s and ended at 8.5m/s. Therefore, Empress performed better in race 2.
+Furthermore, in race 1 empress started at 10m/s and finished at 5m/s, but in race 2 empress started at around 10m/s and ended at 8.5m/s. Therefore, Empress performed better in race 2.
 
-One reason why she could have performed well is because the batteries used in the second race had higher
-Amp-hours. So, more charge was available for the car to use in the second race.
+One reason why she could have performed well is because the batteries used in the second race had higher Amp-hours. So, more charge was available for the car to use in the second race.
 
-Another reason why she could have performed well is because we realigned the motor sprocket with the axle
-sprocket between race 1 and 2.
+Another reason why she could have performed well is because we realigned the motor sprocket with the axle sprocket between race 1 and 2. However, this does not provide a clear reason why the speed was more consistent in the second race. 
 
-However, this does not provide a clear reason why the speed was more consistent in the second race. Also,
-it rained in the second race which presumable would cause Empress to move slower because of added
-resistance. The drivers' apprehension on holding down the power button in fear of crashing the car could also
-be a factor, which slowed down the car. However, Empress is faster in race 2.
+Also, it rained in the second half of race 2, which caused Empress to move slower because of added resistance. The drivers' apprehension on holding down the power button in fear of crashing the car could also be a factor, which slowed down the car. Despite this, Empress is faster in race 2.
 
 **What was the cause of reduction of speed in both races?:**
 
-Saffy, car lead of KM1 (the fastest car our school has), suggested that the decrease in speed in both races is
-due to the aerodynamics and weight of our car. Our car is not completely streamlined and bullet shaped, which
-may have caused the speed to be low. Our car's chassis is also quite heavy compared to KM1 because when
-it was built it was filled with too much resin which made it too heavy. Poor aerodynamics and heavy weight are
-two factors which would definitely cause the car to be slower.
+Saffy, car lead of KM1 (the fastest car our school has), suggested that the decrease in speed in both races is due to the aerodynamics and weight of our car. Our car is not completely streamlined and bullet shaped, which may have caused the speed to be low. Our car's chassis is also quite heavy compared to KM1 because when it was built it was filled with too much resin which made it too heavy. Poor aerodynamics and heavy weight are two factors which would definitely cause the car to be slower. 
 
-A possible solution to this is trying to make our car more aerodynamic by using less structural foam or shaving
-it down to make the car more sleek.
+A possible solution to this is trying to make our car more aerodynamic by using less structural foam or shaving it down to make the car more sleek.
 
 We can streamline the vehicle's silhouette by tucking the protruding wheels into the main body.
 
@@ -114,16 +96,18 @@ In regards to the weight of the car we cant change the chassis but we can try an
 
 Mr Bamford spoke about how the fastest teams' cars are able alter their motor to their benefit.
 
-In the car, drivers can turn a dial to reduce their battery charge by one amp-hour when they see a pit sign with
-this direction during a race. This will reduce their speed but conserve battery for later.
+In the car, drivers can turn a dial to reduce their battery charge by one amp when they see a pit sign with this direction during a race. This will reduce their speed but conserve battery for later.
 
-Just before the penultimate lap another pit sign will be shown to direct them to increase their car by one amp
-hour again, which will give them much more speed in this lap.
+Just before the penultimate lap another pit sign will be shown to direct them to increase their car by one amp again, which will give them much more speed in this lap. 
 
-This is desirable because Greenpower count the last lap in the following way. Using an example to explain; say
-the penultimate lap is 4minutes, the last lap is calculated to be 1/2 of this lap. If the penultimate lap is 2 minutes
-the last lap is calculated to be 1/4 of this lap.
+This is desirable because Greenpower count the last lap in the following way. Using an example to explain; say the penultimate lap is 4minutes, the last lap is calculated to be 1/2 of this lap. If the penultimate lap is 2 minutes the last lap is calculated to be 1/4 of this lap. 
 
-Therefore, it is better to have a a shorter amount of time in the penultimate lap than other laps previously in
-the race, so you can have a short time in the last lap of the race. Perhaps we could add a system to do this to
-Empres
+Therefore, it is better to have a a shorter amount of time in the penultimate lap than other laps previously in the race, so you can have a short time in the last lap of the race. Perhaps we could add a system to do this to Empress.
+
+**Next steps:**
+
+After consulting with the team, here are some next steps we would like to move forward with.
+
+To help with aerodynamics, a smooth covering made of lightweight vinyl over empress should help to improve aerodynamics. If our school goes to the next race, Goodwood we should prioritise this.
+
+At the moment, Empress’ wheels are very slightly “toe in”. If we get to the finals, we need will shorten the track rods on the front steering to get them perfect.
